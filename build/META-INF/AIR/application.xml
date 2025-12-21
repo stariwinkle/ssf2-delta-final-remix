@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/32.0">
+  <id>com.mcleodgaming.ssf2</id>
+  <versionNumber>001.400.001</versionNumber>
+  <filename>SSF2 Delta - Final ReMix</filename>
+  <copyright>2025</copyright>
+  <initialWindow>
+	  <title>SSF2 Delta - Final Re:Mix</title>
+    <content>SSF2.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>false</resizable>
+    <renderMode>auto</renderMode></initialWindow>
+  <name>SSF2 Delta - Final Re:Mix</name>
+  <android>
+    <manifestAdditions><![CDATA[<manifest android:installLocation="auto" xmlns:android="http://schemas.android.com/apk/res/android" />]]></manifestAdditions>
+  </android>
+  <supportedLanguages>en</supportedLanguages>
+  <icon>
+    <image128x128>icons/128.png</image128x128>
+  </icon>
+  <architecture>64</architecture>
+  <supportedProfiles>extendedDesktop </supportedProfiles>
+  <versionLabel>1.4.0.1</versionLabel>
+  <description>The original SSF2 Delta, recompiled for stability and online functionality!</description>
+  <extensions>
+    <extensionID>com.iam2bam.ane.nativejoystick</extensionID>
+    <extensionID>fi.joniaromaa.adobeair.discordrpc</extensionID>
+  </extensions>
+</application>

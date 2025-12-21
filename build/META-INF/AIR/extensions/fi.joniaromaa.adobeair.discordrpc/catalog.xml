@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+    <versions>
+        <swc version="1.2"/>
+        <compiler name="ActionScript Compiler" version="2.3.0" build="0"/>
+    </versions>
+    <features>
+        <feature-script-deps/>
+    </features>
+    <libraries>
+        <library path="library.swf">
+            <script name="fi/joniaromaa/adobeair/discordrpc/DiscordRpc" mod="1748516582682">
+                <def id="fi.joniaromaa.adobeair.discordrpc:DiscordRpc"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Function" type="s"/>
+                <dep id="String" type="s"/>
+                <dep id="fi.joniaromaa.adobeair.discordrpc:DiscordRpcJoinGameEvent" type="e"/>
+                <dep id="fi.joniaromaa.adobeair.discordrpc:DiscordRpcJoinRequestEvent" type="e"/>
+                <dep id="flash.events:EventDispatcher" type="i"/>
+                <dep id="flash.events:StatusEvent" type="s"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+                <dep id="trace" type="e"/>
+                <dep id="uint" type="s"/>
+            </script>
+            <script name="fi/joniaromaa/adobeair/discordrpc/DiscordRpcEvent" mod="1748417532010">
+                <def id="fi.joniaromaa.adobeair.discordrpc:DiscordRpcEvent"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="fi/joniaromaa/adobeair/discordrpc/DiscordRpcJoinGameEvent" mod="1748417532010">
+                <def id="fi.joniaromaa.adobeair.discordrpc:DiscordRpcJoinGameEvent"/>
+                <dep id="String" type="s"/>
+                <dep id="fi.joniaromaa.adobeair.discordrpc:DiscordRpcEvent" type="i"/>
+            </script>
+            <script name="fi/joniaromaa/adobeair/discordrpc/DiscordRpcJoinRequestEvent" mod="1748417532011">
+                <def id="fi.joniaromaa.adobeair.discordrpc:DiscordRpcJoinRequestEvent"/>
+                <dep id="String" type="s"/>
+                <dep id="fi.joniaromaa.adobeair.discordrpc:DiscordRpcEvent" type="i"/>
+            </script>
+            <digests>
+                <digest type="SHA-256" signed="false" value="b2085e9d836dfa72992f9f8d86d02d554b645bb0becea6979b4e866bd8096440"/>
+            </digests>
+        </library>
+    </libraries>
+</swc>
