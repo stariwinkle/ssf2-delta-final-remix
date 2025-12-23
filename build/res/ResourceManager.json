@@ -95,7 +95,15 @@
 	"bgm_milf": {
 		"file": "bgm_milf.ssf",
 		"guid": "57458ae0-7733-40a0-9546-swagswagswag"
-	}	
+	},
+	"bgm_yumenotsuzuki" : {
+		"file": "bgm_yumenotsuzuki.ssf",
+		"guid": "57458ae0-7733-40a0-yume-801a69ead164"
+	},
+	"bgm_mizuironoame" : {
+		"file": "bgm_mizuironoame.ssf",
+		"guid": "a332afd3-8a3c-4e98-b7be-021754a4ef03"
+	}
   },
   "audio": {},
   "stage_xp": {},

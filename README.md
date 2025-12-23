@@ -5,7 +5,12 @@
 
 This new version aims to mostly preserve the original gameplay experience from the v1.2 release while implementing small additions and changes, such as restoring Online Mode functionality, fixing bugs, and more.
 
-## Latest Changes: v1.2.0.1
+## Latest Changes: v1.2.0.2
+- Fixed Discord Rich Presence timestamp behavior
+- The holiday theme for Waiting Room no longer changes terrain visuals
+- Added a new song for the Delta 130.1 FM stage
+
+## v1.2.0.1
 - Restored Online Mode functionality
 - Updated Waiting Room visuals
 - New default and alternative menu music - check the first two options in the "Sandbox" menu!
@@ -14,7 +19,7 @@ This new version aims to mostly preserve the original gameplay experience from t
 - Fixed the old issues related to META-INF/AdobeAIR/Application descriptors - the new build should just work!
 
 ### Known Issues
-- Discord Rich Presence timestamps can be wildly inaccurate
+- None at the moment - if you find something, report it!
 
 ### Questions, concerns?
 Join the official SSF2 Mods Discord server: [https://discord.gg/yVPkqKQsx2](https://discord.gg/yVPkqKQsx2)
